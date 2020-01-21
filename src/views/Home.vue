@@ -8,13 +8,12 @@
 
 <script>
     export default {
-        name: 'home',
-        components: {}
+        name: 'home'
     }
 </script>
 
 <style>
-.home {
-    text-align: center;
-}
+    .home {
+        text-align: center;
+    }
 </style>
